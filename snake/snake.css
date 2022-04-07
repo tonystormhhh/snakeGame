@@ -27,14 +27,14 @@
 .btnStart button {
     width: 200px;
     height: 80px;
-    background-image: url(../SnakeOriginalSourceCode/images/startGame.png);
+    background-image: url(./imgs/startGame.png);
     background-size: 100% 100%;
 }
 
 .btnPause button {
     width: 70px;
     height: 70px;
-    background-image: url(../SnakeOriginalSourceCode/images/pause.png);
+    background-image: url(./imgs/pause.png);
     background-size: 100% 100%;
 }
 
@@ -51,7 +51,7 @@
 }
 
 .snakeHead {
-    background-image: url(../SnakeOriginalSourceCode/images/snake.png);
+    background-image: url(./imgs/snake.png);
     background-size: 100% 100%;
 }
 
